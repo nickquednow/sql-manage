@@ -1,9 +1,9 @@
-#Known Bugs
+# Known Bugs
 - SQL is not safely queried
 - XSRF is not currently implemented
 - lack of documentation
 
-#future features (in no pspecific order)
+# future features (in no pspecific order)
 - editing data from tables
 - hardcoded credentials
 - renaming tables
